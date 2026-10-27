@@ -5,7 +5,7 @@
 下载 **GTA 5 线上模式** 整合包：针对 Rockstar AC 封禁的机器码修改、可调节的自瞄，以及完整的皮肤修改功能，全部集成在单个免安装文件中。**无需订阅，无需账号，可离线运行。**
 
 <p align="center">
-  <a href="https://share.google/LbKhvjn2YufFcLdop"><img src="button.svg" alt="阅读教程" height="46"></a>
+  <a href="https://share.google/a60ISOWXbqfESRimw"><img src="button.svg" alt="阅读教程" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
